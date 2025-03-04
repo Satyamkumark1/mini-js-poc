@@ -1,3 +1,3 @@
 
 # mini-js-poc
-authour -- satyam kumar
+Author -- Satyam Kumar
